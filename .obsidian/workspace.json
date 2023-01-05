@@ -8,14 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2756eba228d108f",
+            "id": "1f8d1e34a494995b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Dart/Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "936fb8b29a30969f",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "362fb9cb6b1912a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter Development/Flutter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c83fe76a9e63fb1",
@@ -82,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flutter Development/Flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flutter Development/Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Flutter Development/Flutter.md"
+              }
             }
           },
           {
@@ -148,17 +176,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2756eba228d108f",
+  "active": "362fb9cb6b1912a0",
   "lastOpenFiles": [
-    "Languages/Dart/Dart.md",
-    "Untitled.canvas",
-    "Languages/Languages.md",
-    "Languages/Kotlin.md",
-    "Languages/Python/Python.md",
-    "Languages/Dart/Functions.md",
+    "README.md",
+    "Obsidian/Markdown Tutorial.md",
+    "Obsidian/New Link.md",
+    "Obsidian/Obsidian.md",
+    "Obsidian/Screenshot 2023-01-02 at 9.19.42 PM.png",
+    "2023-01-03.md",
+    "Languages/Dart/Classes.md",
     "Languages/Dart/Variables.md",
-    "Languages/Java.md",
-    "Languages/C++.md",
-    "Languages/Python/Functions.md"
+    "Languages/Dart/Functions.md",
+    "Languages/Dart/Dart.md"
   ]
 }
