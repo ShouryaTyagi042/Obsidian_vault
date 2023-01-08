@@ -2,7 +2,7 @@
 ## Index
 - [[Dart]]
 - [[Python]]
-
+- [[JavaScript]]
 
 ## What is the difference between lexical and dynamic scoping ?
 

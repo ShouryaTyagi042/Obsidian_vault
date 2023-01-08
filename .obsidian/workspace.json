@@ -8,32 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f8d1e34a494995b",
+            "id": "83cb684c6edb2011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Dart/Functions.md",
+                "file": "Languages/Languages.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "936fb8b29a30969f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "362fb9cb6b1912a0",
+            "id": "97ac7a9bc2536f41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter Development/Flutter.md",
+                "file": "Languages/JavaScript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8882ca7c66c492e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Dart/Built In Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter Development/Flutter.md",
+                "file": "Languages/Dart/Built In Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter Development/Flutter.md",
+                "file": "Languages/Dart/Built In Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter Development/Flutter.md"
+                "file": "Languages/Dart/Built In Types.md"
               }
             }
           },
@@ -176,17 +180,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "362fb9cb6b1912a0",
+  "active": "8882ca7c66c492e7",
   "lastOpenFiles": [
-    "README.md",
-    "Obsidian/Markdown Tutorial.md",
-    "Obsidian/New Link.md",
-    "Obsidian/Obsidian.md",
-    "Obsidian/Screenshot 2023-01-02 at 9.19.42 PM.png",
-    "2023-01-03.md",
-    "Languages/Dart/Classes.md",
-    "Languages/Dart/Variables.md",
+    "React Development/React.md",
+    "Languages/JavaScript/JavaScript.md",
+    "Languages/Languages.md",
+    "Flutter Development/main.dart.md",
+    "Flutter Development/Basics.md",
+    "Flutter Development/Flutter.md",
+    "Languages/Dart/Built In Types.md",
+    "Languages/Dart/Dart.md",
     "Languages/Dart/Functions.md",
-    "Languages/Dart/Dart.md"
+    "README.md"
   ]
 }
