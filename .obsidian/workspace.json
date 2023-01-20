@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "9cc2abecb14f765a",
+        "id": "b0e685164fe4182c",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb11a86a1bfb538",
+            "id": "53e2aff8590bab24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/CRUD operation.md",
+                "file": "Software/Software.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "53adc65ddccda4ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/DBMS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c370deddcea6bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/Keywords.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50ffd0fe84ad175e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/CRUD operation.md",
+                "file": "DBMS/Keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/CRUD operation.md",
+                "file": "DBMS/Keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/CRUD operation.md"
+                "file": "DBMS/Keywords.md"
               }
             }
           },
@@ -155,17 +188,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1eb11a86a1bfb538",
+  "active": "9c370deddcea6bc0",
   "lastOpenFiles": [
-    "Software/Index.md",
-    "2023-01-03.md",
-    "Languages/Dart/Variables.md",
-    "Languages/Dart/Functions.md",
-    "Languages/Dart/Dart.md",
+    "DBMS/DBMS.md",
+    "Software/Routing.md",
+    "Software/Software.md",
+    "Flutter Development/Scaffold.md",
+    "Flutter Development/Flutter.md",
+    "Flutter Development/Widgets.md",
+    "Flutter Development/State Class.md",
+    "Flutter Development/Basics.md",
     "Languages/Dart/Classes.md",
-    "React Development/React.md",
-    "Software/CRUD operation.md",
-    "Flutter Development/main.dart.md",
-    "Flutter Development/Flutter.md"
+    "Languages/Dart/Built In Types.md"
   ]
 }
