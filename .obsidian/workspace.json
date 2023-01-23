@@ -11,28 +11,11 @@
             "id": "40e3c49fbe76153d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9834116f28664ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React Development/React Router DOM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Development/React Router DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Development/React Router DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React Development/React Router DOM.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,17 +147,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9834116f28664ff3",
+  "active": "40e3c49fbe76153d",
   "lastOpenFiles": [
-    "React Development/React.md",
-    "().md",
-    "React Development/React Router DOM.md",
     "Software/CSS.md",
-    "Software/Software.md",
-    "DBMS/Keywords.md",
-    "DBMS/DBMS.md",
+    "Languages/Python/Functions.md",
+    "Languages/Python/Variables.md",
+    "Languages/Python/Python.md",
+    "Languages/JavaScript/JavaScript.md",
+    "React Development/React.md",
+    "React Development/React Router DOM.md",
     "Software/Routing.md",
-    "Flutter Development/Scaffold.md",
-    "Flutter Development/Flutter.md"
+    "Software/EJS.md",
+    "Software/API.md"
   ]
 }

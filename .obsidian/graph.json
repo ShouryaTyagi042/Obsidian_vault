@@ -20,9 +20,16 @@
         "a": 1,
         "rgb": 1575404
       }
+    },
+    {
+      "query": "tag:#Python",
+      "color": {
+        "a": 1,
+        "rgb": 15922692
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 139,
-  "scale": 0.7228157756571433,
+  "scale": 0.6354049803502234,
   "close": true
 }
