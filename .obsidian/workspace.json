@@ -11,8 +11,12 @@
             "id": "40e3c49fbe76153d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Dart/Variables.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Languages/Dart/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Languages/Dart/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Languages/Dart/Variables.md"
+              }
             }
           },
           {
@@ -149,12 +157,12 @@
   },
   "active": "40e3c49fbe76153d",
   "lastOpenFiles": [
+    "React Development/React.md",
     "Software/CSS.md",
     "Languages/Python/Functions.md",
     "Languages/Python/Variables.md",
     "Languages/Python/Python.md",
     "Languages/JavaScript/JavaScript.md",
-    "React Development/React.md",
     "React Development/React Router DOM.md",
     "Software/Routing.md",
     "Software/EJS.md",
