@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60a6a2b1a287abbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-01-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af126ee95221e7b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/Node.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51683e1a17fffa61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/Body Parser.md",
+                "file": "React Development/React Router DOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d41a6c964d22531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Development/Return Vs Render.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Body Parser.md",
+                "file": "React Development/Return Vs Render.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/Body Parser.md",
+                "file": "React Development/Return Vs Render.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/Body Parser.md"
+                "file": "React Development/Return Vs Render.md"
               }
             }
           },
@@ -181,17 +169,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51683e1a17fffa61",
+  "active": "f0b53e21b4d9872e",
   "lastOpenFiles": [
+    "React Development/React.md",
+    "React Development/Return Vs Render.md",
+    "React Development/React Router DOM.md",
+    "React Development/Leaflet.js.md",
     "Node.js/Node.js.md",
+    "2023-01-17.md",
+    "Languages/JavaScript/JavaScript.md",
+    "Node.js/Api in node.md",
     "Node.js/Body Parser.md",
     "Software/Template Engine.md",
-    "2023-01-17.md",
     "Software/Miscellaneous.md",
     "Node.js/REST API in node.js.md",
-    "Languages/JavaScript/JavaScript.md",
-    "React Development/React.md",
-    "Node.js/Api in node.md",
     "Software/Asynchronous Programming.md",
     "Software/EJS.md",
     "Software/API.md",
@@ -207,10 +198,7 @@
     "Flutter Development/Scaffold.md",
     "Flutter Development/State Class.md",
     "Flutter Development/Widgets.md",
-    "Languages/Languages.md",
     "Languages/Screenshot 2023-01-17 at 10.52.15 PM.png",
-    "Languages/Screenshot 2023-01-21 at 11.46.42 AM.png",
-    "React Development/React Router DOM.md",
-    "README.md"
+    "Languages/Screenshot 2023-01-21 at 11.46.42 AM.png"
   ]
 }
